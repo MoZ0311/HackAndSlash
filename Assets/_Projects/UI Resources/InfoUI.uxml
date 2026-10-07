@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Projects/UI%20Resources/USS.uss?fileID=7433441132597879392&amp;guid=c14336c29eb818344adb3252881c91c3&amp;type=3#USS"/>
+    <ui:VisualElement style="flex-grow: 1; flex-direction: column-reverse;">
+        <ui:VisualElement style="width: 500px; align-self: flex-end;">
+            <ui:Label text="E: 旧式射撃ユニット" name="BarrelLabel" class="equip-label"/>
+            <ui:Label text="E: ダミーモジュール" name="ModuleLabel" class="equip-label"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

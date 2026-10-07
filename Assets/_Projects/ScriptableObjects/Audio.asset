@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd15052a18b359a4786b69109b22e73a, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSO
+  <AudioAssets>k__BackingField:
+  - <Tag>k__BackingField: Enter
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: 231b0fb55c24242479c32d2f9f781dbf, type: 3}
+  - <Tag>k__BackingField: Shoot
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: a2d5c277beb41184eac7ba634f1eb97b, type: 3}
+  - <Tag>k__BackingField: Hit
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: 3de095f4e559bb341af60f4a72196d43, type: 3}
+  - <Tag>k__BackingField: Charge
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: 117ce055d0a41d944ab6011dcc610604, type: 3}
+  - <Tag>k__BackingField: Fullcharge
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: 1816f8023271f5d4db5c4d032974ef1c, type: 3}
+  - <Tag>k__BackingField: Penetration
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: e016972804124bd4b8f6e479a3ac37fd, type: 3}
+  - <Tag>k__BackingField: Explosion
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: 84c6447aef306f44ea90d6d6b63351b9, type: 3}
+  - <Tag>k__BackingField: Die
+    <AudioClip>k__BackingField: {fileID: 8300000, guid: fbcfa8fbf29bb3540932a3ac705e4e61, type: 3}

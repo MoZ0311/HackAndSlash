@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="[Barrel]&#10;F1 :Rifle&#10;F2 :Shotgun&#10;F3 :Gatling&#10;F4 :V-Rifle&#10;&#10;[Module]&#10;F5 :Penetration&#10;F6 :Ricochet&#10;F7 :Explosion&#10;F8 :None&#10;&#10;[Scene]&#10;F12:Scene Reload" style="-unity-font-definition: url(&quot;project://database/Assets/_Projects/Fonts/MoralerspaceKrypton-Regular.ttf?fileID=12800000&amp;guid=bf032d6bfe5f23749aa2871b445135f4&amp;type=3#MoralerspaceKrypton-Regular&quot;); font-size: 40px; -unity-font-style: bold; -unity-text-outline-width: 2px; -unity-text-outline-color: rgb(0, 0, 0); color: rgb(255, 255, 255);"/>
+    </ui:VisualElement>
+</ui:UXML>

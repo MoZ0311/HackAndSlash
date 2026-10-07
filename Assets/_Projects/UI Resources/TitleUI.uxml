@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Projects/UI%20Resources/USS.uss?fileID=7433441132597879392&amp;guid=c14336c29eb818344adb3252881c91c3&amp;type=3#USS"/>
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(92, 186, 191);">
+        <ui:Label text="Hack And Slash" style="font-size: 160px; -unity-font-definition: url(&quot;project://database/Assets/_Projects/Fonts/MoralerspaceKrypton-Regular.ttf?fileID=12800000&amp;guid=bf032d6bfe5f23749aa2871b445135f4&amp;type=3#MoralerspaceKrypton-Regular&quot;); -unity-text-align: middle-center; -unity-font-style: normal; -unity-text-outline-width: 4px; -unity-text-outline-color: rgb(255, 255, 255); margin-top: 120px;"/>
+        <ui:Label text="-demo version-" style="-unity-font-definition: url(&quot;project://database/Assets/_Projects/Fonts/MoralerspaceKrypton-Regular.ttf?fileID=12800000&amp;guid=bf032d6bfe5f23749aa2871b445135f4&amp;type=3#MoralerspaceKrypton-Regular&quot;); font-size: 96px; -unity-text-align: upper-center; -unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 0;"/>
+        <ui:VisualElement style="align-items: center; flex-grow: 1; justify-content: center;">
+            <ui:Button text="START" name="StartButton" class="title-button"/>
+            <ui:Button text="EXIT" name="ExitButton" class="title-button"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

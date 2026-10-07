@@ -1,0 +1,43 @@
+.title-button {
+    font-size: 80px;
+    -unity-font-definition: url("project://database/Assets/_Projects/Fonts/MoralerspaceKrypton-Regular.ttf?fileID=12800000&guid=bf032d6bfe5f23749aa2871b445135f4&type=3#MoralerspaceKrypton-Regular");
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+    -unity-font-style: normal;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    aspect-ratio: 3;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.equip-label {
+    -unity-font-definition: url("project://database/Assets/_Projects/Fonts/Kaisotai-Next-UP-B.ttf?fileID=12800000&guid=52bba2a5148999e4a8fdc130a06fc965&type=3#Kaisotai-Next-UP-B");
+    font-size: 56px;
+    -unity-text-align: middle-left;
+    border-top-left-radius: 36px;
+    background-color: rgba(132, 190, 192, 0.502);
+    border-bottom-left-radius: 36px;
+    padding-left: 16px;
+    margin-top: 0;
+    margin-bottom: 16px;
+    color: rgb(255, 255, 255);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(0, 171, 167);
+    border-top-width: 8px;
+    border-right-width: 8px;
+    border-bottom-width: 8px;
+    border-left-width: 8px;
+    border-left-color: rgb(0, 188, 183);
+    border-right-color: rgb(0, 188, 183);
+    border-top-color: rgb(0, 188, 183);
+    border-bottom-color: rgb(0, 188, 183);
+    border-top-right-radius: 36px;
+    border-bottom-right-radius: 36px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    flex-grow: 1;
+}

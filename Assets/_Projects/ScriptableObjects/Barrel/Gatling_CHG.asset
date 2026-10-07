@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ef36e4a74fd474b87ef544e2e97b4c, type: 3}
+  m_Name: Gatling_CHG
+  m_EditorClassIdentifier: Assembly-CSharp::BarrelSO
+  <AimSmoothTime>k__BackingField: 0.3
+  <SpreadAngle>k__BackingField: 6
+  <FireRate>k__BackingField: 15
+  <IsSemiAuto>k__BackingField: 1
+  <Crosshair>k__BackingField: {fileID: 2800000, guid: c5eab7b8ba5392f4db8bd41f21f05492, type: 3}
+  <BulletPrefab>k__BackingField: {fileID: -4737447037011890130, guid: 75df70b20a4feb44ca08fff270cc4e2b, type: 3}
+  <BulletSpeed>k__BackingField: 40
+  <MaxRange>k__BackingField: 12
+  <DamageAmount>k__BackingField: 3.5

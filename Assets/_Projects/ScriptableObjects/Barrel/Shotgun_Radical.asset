@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ef36e4a74fd474b87ef544e2e97b4c, type: 3}
+  m_Name: Shotgun_Radical
+  m_EditorClassIdentifier: Assembly-CSharp::BarrelSO
+  <AimSmoothTime>k__BackingField: 0.05
+  <SpreadAngle>k__BackingField: 240
+  <FireRate>k__BackingField: 5
+  <IsSemiAuto>k__BackingField: 0
+  <Crosshair>k__BackingField: {fileID: 2800000, guid: c9a548e2722417547a44ece0e35ea69e, type: 3}
+  <BulletPrefab>k__BackingField: {fileID: -4737447037011890130, guid: 75df70b20a4feb44ca08fff270cc4e2b, type: 3}
+  <BulletSpeed>k__BackingField: 30
+  <MaxRange>k__BackingField: 5
+  <DamageAmount>k__BackingField: 0
